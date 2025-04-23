@@ -1,0 +1,30 @@
+_repo: The-strange-countess_75858
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Edgar
+    alias: Wallace, Richard Horatio Edgar
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '999'
+    url: http://www.gutenberg.org/2009/agents/999
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Wallace
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75858'
+language: en
+pgterms:marc904: https://books.google.com/books?id=q_oTAAAAQAAJ
+pgterms:marc905: 20250401115717wallace
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: An anonymous Project Gutenberg volunteer
+publication_note: '  $aUnited States :$bSmall, Maynard & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The strange countess
+url: http://www.gutenberg.org/ebooks/75858
